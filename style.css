@@ -1,0 +1,24 @@
+body
+{
+  color: rgb(179, 146, 146);
+  background: #c0feff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_hand_gesture_name 
+{
+  color: black;
+}
+.hand_gesture_name
+{
+  font-size: 40px;
+}
+
